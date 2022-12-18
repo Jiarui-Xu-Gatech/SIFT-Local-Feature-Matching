@@ -1,4 +1,4 @@
-# CS 4476/6476 Project 2: SIFT Local Feature Matching
+# SIFT Local Feature Matching
 
 ## Getting started
 
